@@ -1,0 +1,12 @@
+#div {
+    border: 10px;
+    height: 200px;
+}
+
+#square {
+    height: 250px;
+    width: 250px;
+    border: 1px solid black;
+    /* ease-in-out: 1s; */
+}
+
